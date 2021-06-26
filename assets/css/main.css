@@ -30,6 +30,17 @@
 	margin-top: 1.66em;
 }
 
+/* Skills */
+#skills svg{
+	height: 110px;
+	margin: 20px 20px 20px 0px;
+}
+
+/* About Me */
+#about__me {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
 /* Technologies */
 #technologies--bold {
 	font-weight: bold;
