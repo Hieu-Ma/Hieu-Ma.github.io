@@ -8,6 +8,8 @@
 */
 
 /* Custom Styling */
+
+/* Profile Picture */
 #me {
 	height: 300px;
 	width: 300px;
@@ -18,18 +20,24 @@
 	margin-bottom: 2.5em;
 }
 
-#introduction__subtitle {
-}
-
+/* Projects */
 #projects__title {
 	margin-bottom: 1.5em;
 }
 
+/* Repository Links */
 #repo__links {
 	margin-top: 1.66em;
 }
 
+/* Technologies */
 #technologies--bold {
+	font-weight: bold;
+}
+
+/* Learn More */
+#learn__more {
+	cursor: pointer;
 	font-weight: bold;
 }
 
